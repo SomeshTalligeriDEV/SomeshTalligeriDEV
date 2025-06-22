@@ -1,12 +1,14 @@
-# Somesh.S.Talligeri
 
-**Computer Science & IT (CSIT) Student**  
-**Aspiring Web3 & Blockchain Developer | Cloud Enthusiast**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=💻+Full-Stack+Developer;🔗+Web3+%26+Blockchain;☁️+Cloud+Computing;🚀+DevOps+Learner" alt="Roles Typing SVG" />
+</p>
 
+
+# 👨‍💻 Somesh.S.Talligeri
+🎓 **Computer Science & IT (CSIT) Student**  
+🚀 **Aspiring Web3 & Blockchain Developer | Cloud Enthusiast**
 
 I am a highly motivated and self-driven developer focused on building scalable, real-world applications. Through continuous learning and hands-on experience, I aim to contribute meaningfully to modern tech teams and impactful projects.
-
----
 
 ## 🔍 What I'm Currently Working On
 
@@ -14,23 +16,17 @@ I am a highly motivated and self-driven developer focused on building scalable, 
 - Developing real-world, hackathon-ready projects with clean architecture
 - Enhancing skills in **frontend development**, **API integration**, **deployment**, and **blockchain integration**
 
----
-
 ## 🤝 Collaboration Interests
 
-- Full-stack and frontend development projects
+- Full-stack development projects
 - Student-led open-source initiatives
 - Hackathons and collaborative learning communities
-
----
 
 ## 💼 Career Goals & Interests
 
 - Securing internships in **Full-Stack Development** or **Cloud Engineering**
 - Working on projects that bridge academic knowledge with real-world impact
 - Gaining mentorship and exposure in high-performing engineering environments
-
----
 
 ## 🚀 Currently Learning & Growing In
 
@@ -39,16 +35,11 @@ I am a highly motivated and self-driven developer focused on building scalable, 
 - **DevOps Tools & Practices** (CI/CD, containerization — in progress)
 - Deepening proficiency in **MERN stack**, **Firebase**, and **Git/GitHub**
 
----
-
 ## 💬 Let's Connect
 
 I’m always open to learning opportunities, internships, or collaborations that push me to grow as a developer and contribute to meaningful work.
 
----
-
 ⚡ Fun Fact:<br>I don’t know everything — but I’m committed to learning every day, building consistently, and growing into a focused, skilled, and future-ready developer by graduation.
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Evur6YHVnN) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/coffeewithsomesh?igsh=MXRqcDIycWxyemF2aw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/somesh-s-talligeri-014228331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@someshtalligeri12) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/28900248/somesh-talligeri?tab=profile) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/somesh12092005?s=21) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@ShadowMonarch1209) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:someshtalligeri12@gmail.com) 
