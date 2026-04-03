@@ -184,31 +184,15 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SomeshTalligeriDEV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=A855F7&icon_color=A855F7&text_color=ffffff&bg_color=0d1117" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SomeshTalligeriDEV&theme=tokyonight&hide_border=true&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&background=0d1117&dates=ffffff" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomeshTalligeriDEV&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=ffffff&bg_color=0d1117"/>
-
-</div>
-
----
-
-<div align="center">
-
-## Trophies
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SomeshTalligeriDEV&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SomeshTalligeriDEV&theme=onestar&no-frame=true&row=1&column=6&margin-w=10"/>
-
-</div>
-
----
 
 <div align="center">
+
 
 ## Contribution Graph
 
