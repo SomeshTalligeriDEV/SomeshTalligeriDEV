@@ -1,5 +1,5 @@
 
-[![Master Head](https://raw.githubusercontent.com/SomeshTalligeriDEV/SomeshTalligeriDEV/046080bc6a33a69dcc71087ba5cb0de42a79b0aa/GIT.gif)](someshtalligeri.vercel.app/)
+[![Master Head](https://raw.githubusercontent.com/SomeshTalligeriDEV/SomeshTalligeriDEV/046080bc6a33a69dcc71087ba5cb0de42a79b0aa/GIT.gif)](https://someshtalligeri.vercel.app/)
 
 
 <div align="center">
@@ -12,7 +12,7 @@
  
 
 
-[![Website](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](someshtalligeri.vercel.app/)
+[![Website](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://someshtalligeri.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somesh-s-talligeri-014228331)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:someshtalligeri12@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/somesh12092005)
