@@ -49,7 +49,7 @@
   ],
 
   "achievements": {
-    "hackathon_wins"   : "9x Hackathon Winner (20+ national & international hackathons)",
+    "hackathon_wins"   : "14x Hackathon Winner (20+ national & international hackathons)",
     "hackathons_led"   : "Organized 5+ hackathons",
     "projects_built"   : "Multiple Web3, AI, and Cloud-based production-ready projects"
   },
