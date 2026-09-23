@@ -8,7 +8,7 @@
  
 ### Full-Stack Developer | Web3 & ZK Proof Engineer | Cloud & DevOps | Open Source Contributor
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=9x+Hackathon+Winner+%7C+20%2B+Competed;Full-Stack+%7C+React+%7C+Next.js+%7C+Flutter;Web3+%7C+ZK+Proofs+%7C+Solidity+%7C+Circom+2.0;AWS+%7C+GCP+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;Open+Source+Contributor+%7C+Bengaluru%2C+India)](https://github.com/someshtalligeridev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=12x+Hackathon+Winner+%7C+20%2B+Competed;Full-Stack+%7C+React+%7C+Next.js+%7C+Flutter;Web3+%7C+ZK+Proofs+%7C+Solidity+%7C+Circom+2.0;AWS+%7C+GCP+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;Open+Source+Contributor+%7C+Bengaluru%2C+India)](https://github.com/someshtalligeridev)
  
 
 
@@ -49,7 +49,7 @@
   ],
 
   "achievements": {
-    "hackathon_wins"   : "14x Hackathon Winner (20+ national & international hackathons)",
+    "hackathon_wins"   : "12x Hackathon Winner (20+ national & international hackathons)",
     "hackathons_led"   : "Organized 5+ hackathons",
     "projects_built"   : "Multiple Web3, AI, and Cloud-based production-ready projects"
   },
